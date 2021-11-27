@@ -14,10 +14,10 @@ p1{
 }
 .btn {
     background-color: white;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     border: 0;
-    width: 200px;
-    padding: 15px 0 15px 0;
+    width: 250px;
+    padding: 20px 0 20px 0;
     border-radius:100px;
     font-family: 'Roboto Condensed', sans-serif;
     -webkit-box-shadow: 10px 13px 21px 1px rgba(0,0,0,0.36); 
