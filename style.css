@@ -20,6 +20,7 @@ p1{
     padding: 20px 0 20px 0;
     border-radius:100px;
     font-family: 'Roboto Condensed', sans-serif;
+    font-size:20px;
     -webkit-box-shadow: 10px 13px 21px 1px rgba(0,0,0,0.36); 
     box-shadow: 10px 13px 21px 1px rgba(0,0,0,0.36);
     transition-duration: 0.3s;
